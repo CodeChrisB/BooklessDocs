@@ -44,7 +44,6 @@
 
  ```
 Syp
-│   
 │
 └───Bookless
 │   │  This is the folder
@@ -54,3 +53,12 @@ Syp
     │   Here we will keep track 
     │   of our documents E.g sprints, Powerpoints, etc.
 ```
+
+
+# Only for version control important
+
+- git checkout -b (branch name)
+
+- work in branch add commit
+
+- git push -u origin (branch name)
