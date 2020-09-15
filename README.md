@@ -57,8 +57,18 @@ Syp
 
 # Only for version control important
 
+## Add a branch
+
 - git checkout -b (branch name)
 
 - work in branch add commit
 
 - git push -u origin (branch name)
+
+## Delete a branch
+
+- git push origin --delete (branch name)
+
+## Get current version
+
+- codechrisb.github.io/version.html
