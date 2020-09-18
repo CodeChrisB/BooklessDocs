@@ -1,3 +1,4 @@
+Sebastian Egger
 # Bookless
 
 ## What is it in short?
