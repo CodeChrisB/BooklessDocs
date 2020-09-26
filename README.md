@@ -44,7 +44,7 @@ Salesman: Buchberger, Egger
 ### Voting Points
 
 - Aigner 1 Point
-- Buchberger 2 Point
+- Buchberger 2 Points
 - Egger 1 Point
 - Freiseisen 1 Point
 
