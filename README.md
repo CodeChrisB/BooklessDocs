@@ -49,5 +49,3 @@ Salesman: Buchberger, Egger
 
 ##### Buchberger has 2 Points to act as a tie breaker when there are conflict on what will be done next.
 
-
-#### Btw we can change who does what , just added something :D
