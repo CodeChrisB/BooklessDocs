@@ -1,6 +1,4 @@
-Sebastian Egger
 # Bookless
-## Management by Punishment!!
 
 ## What is it in short?
 
@@ -34,9 +32,20 @@ Bookless is a Accounting software with following features
 
 # The team
 
-- Aigner Elias (Dev & Timetablemanager)
-- Buchberger Christopher (Dev, Designer & Contactperson)
-- Egger Sebastian (Dev & Sprintmanager)
-- Freiseisen (Dev & Documentation)
+Developer: Aigner, Buchberger, Egger, Freiseisen
 
-#### Btw we can change who does what , just added something :D
+Scrummaster: Freiseisen
+
+Product Owner: Buchberger
+
+Salesman: Buchberger, Egger
+
+### Voting Points
+
+- Aigner 1 Point
+- Buchberger 2 Points
+- Egger 1 Point
+- Freiseisen 1 Point
+
+##### Buchberger has 2 Points to act as a tie breaker when there are conflict on what will be done next.
+
