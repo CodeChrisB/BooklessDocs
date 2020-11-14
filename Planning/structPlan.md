@@ -2,7 +2,7 @@
 
 ## Frontend
 
- - [ ] Basic Ui (Topbar,Sidenav, Main View,Footer)
+ [x] Basic Ui (Topbar,Sidenav, Main View,Footer)
 - Navigation to the Components
 - Customer Management
     - Show list of Customers
