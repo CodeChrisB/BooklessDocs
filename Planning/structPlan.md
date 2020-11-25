@@ -16,3 +16,7 @@
 
 
 ## Backend
+- Create DB
+- Connect to DB
+- Permission managemant
+  - Who is allowed to see what?
