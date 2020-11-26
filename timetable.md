@@ -1,6 +1,6 @@
 **Name**|**Sprint**|**Zeit**
 :-------:|:-------:|:-------:
-Aigner|1|-1
+Aigner|1|10
 Buchberger|1|20
 Egger|1|10
 Freiseisen|1|15
